@@ -1,7 +1,7 @@
 export default function Affiliation({ characters, affiliationId }) {
   return (
     <div>
-      <h1>Characters Matching Affiliation "{affiliationId.replace(/\+/g, ' ')}"</h1>
+      <h1>Characters Matching Affiliation &quot;{affiliationId.replace(/\+/g, ' ')}&quot;</h1>
       <ul style={{ display: 'grid', 'grid-template-columns': '1fr 1fr 1fr', 'grid-gap': '4em' }}>
         {characters.map(character => {
           return (
