@@ -2,6 +2,8 @@
 
 Demo for tutorial [How to Create Pages in Next.js with Static & Dynamic Data](https://www.youtube.com/watch?v=pjhjqUrG9O4)
 
+🚀 See Demo: https://my-last-airbender-wiki.netlify.app/avatars
+
 📝 Article: https://spacejelly.dev/posts/how-to-create-pages-in-next-js-with-static-dynamic-data/
 
 📺 YouTube: https://www.youtube.com/watch?v=pjhjqUrG9O4
